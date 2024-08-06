@@ -1,7 +1,3 @@
-Here's a well-structured and detailed description for your To-Do List project, designed to be posted on GitHub:
-
----
-
 # Java To-Do List Application
 
 ## Overview
